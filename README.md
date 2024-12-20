@@ -1,5 +1,4 @@
 # Haskell
-# Haskell
 # 20CYS312 - PPL - Lab Exercise 4
 
 ## Haskell Programming Tasks
